@@ -4,8 +4,9 @@
 
 Me chamo Caio Romão, tenho 19 anos e sou natural da Paraíba. Concluí o ensino médio no IFPB, onde atualmente curso Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento de software e tecnologia da informação. No momento, estou me aprofundando na linguagem Java.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-rom%C3%A3o-b34a63364/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romacaio12@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Meu%20LinkedIn-F2F0E3?style=flat-square&logo=Linkedin&logoColor=212121&link=https://www.linkedin.com/in/caio-rom%C3%A3o-b34a63364/)](https://www.linkedin.com/in/caio-rom%C3%A3o-b34a63364/) 
+[![Gmail Badge](https://img.shields.io/badge/-romacaio12@gmail.com-F2F0E3?style=flat-square&logo=Gmail&logoColor=212121&link=mailto:romacaio12@gmail.com)](mailto:romacaio12@gmail.com)
+
 
  ### Habilidades:
  ---
